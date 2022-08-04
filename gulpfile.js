@@ -1,6 +1,6 @@
 import pkg from 'gulp'
 const { src, dest } = pkg
-
+ 
 import changed    from 'gulp-changed'
 import responsive from 'gulp-image-resize'
 
