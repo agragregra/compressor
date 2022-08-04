@@ -1,0 +1,17 @@
+{
+	"name": "cmp",
+	"version": "1.0.0",
+	"description": "Compressor",
+	"main": "index.js",
+	"author": "WebDesign Master",
+	"type": "module",
+	"license": "ISC",
+	"scripts": {
+		"start": "gulp"
+	},
+	"devDependencies": {
+		"gulp": "^4.0.2",
+		"gulp-changed": "^4.0.3",
+		"gulp-image-resize": "^0.13.1"
+	}
+}
