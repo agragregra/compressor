@@ -11,7 +11,6 @@
 	},
 	"devDependencies": {
 		"gulp": "^4.0.2",
-		"gulp-changed": "^4.0.3",
-		"gulp-image-resize": "^0.13.1"
+		"sharp": "^0.32.0"
 	}
 }
