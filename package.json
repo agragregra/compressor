@@ -11,6 +11,6 @@
 	},
 	"devDependencies": {
 		"gulp": "^4.0.2",
-		"sharp": "^0.32.0"
+		"sharp": "^0.32.1"
 	}
 }
