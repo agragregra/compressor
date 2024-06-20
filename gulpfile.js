@@ -1,9 +1,9 @@
-import glob from 'glob'
+import { glob, globSync } from 'glob'
 import path from 'path'
 import sharp from 'sharp'
 
 async function compress() {
-	let files = glob.sync('img/src/**/*')
+	let files = globSync('img/src/**/*')
 	files.forEach(function (file) {
 		let filename = path.basename(file)
 		sharp(file)

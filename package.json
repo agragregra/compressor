@@ -10,7 +10,8 @@
 		"start": "gulp"
 	},
 	"devDependencies": {
-		"gulp": "^4.0.2",
-		"sharp": "^0.33.2"
+		"glob": "^10.4.2",
+		"gulp": "^5.0.0",
+		"sharp": "^0.33.4"
 	}
 }
