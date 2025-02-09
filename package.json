@@ -1,17 +1,17 @@
 {
-	"name": "cmp",
-	"version": "1.0.0",
-	"description": "Compressor",
-	"main": "index.js",
-	"author": "WebDesign Master",
-	"type": "module",
-	"license": "ISC",
-	"scripts": {
-		"start": "gulp"
-	},
-	"devDependencies": {
-		"glob": "^11.0.1",
-		"gulp": "^5.0.0",
-		"sharp": "^0.33.5"
-	}
+  "name": "cmp",
+  "version": "1.0.0",
+  "description": "Compressor",
+  "main": "index.js",
+  "author": "WebDesign Master",
+  "type": "module",
+  "license": "ISC",
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "glob": "^11.0.1",
+    "gulp": "^5.0.0",
+    "sharp": "^0.33.5"
+  }
 }
